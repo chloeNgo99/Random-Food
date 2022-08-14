@@ -10,4 +10,7 @@ Create a simple app that user decide what to eat with React.
 
 ## Build With
 Langueage: HTML, CSS, Javascript
+
 Website: Scrimba
+
+Demo link: https://scrimba.com/scrim/coa45427e91d4cdb5e6053792?a=19206.0.21.L11_24
