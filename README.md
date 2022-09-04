@@ -1,6 +1,6 @@
 # Random-Food
 ## Project Introduction
-Create a simple app that user decide what to eat with React.
+Create a simple app that helps user decide what to eat with React.
 
 ## Description
 - A separate data array file that store information about the plate including name and image of the food.
